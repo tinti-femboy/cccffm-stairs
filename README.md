@@ -1,4 +1,5 @@
 # CCCFFM-Stairs
+<img src="/logo.png" width="100%">
 Wir (Dimi und ich) möchten im Space die Treppen zur Flounge verbessern.
 
 ## Modernisierungen:
