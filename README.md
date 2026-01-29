@@ -46,11 +46,11 @@ Wir (Dimi und ich) möchten im Space die Treppen zur Flounge verbessern.
 		<td>85 EUR</td>
 	</tr>
 	<tr>
-		<td>Projektpatenschaften</td>
-		<td>-200 EUR</td>
-	</tr>
-	<tr>
 		<td><b>Total</b></td>
 		<td><b>zu viel</b></td>
+	</tr>
+	<tr>
+		<td>Projektpatenschaften</td>
+		<td>-200 EUR</td>
 	</tr>
 </table>
